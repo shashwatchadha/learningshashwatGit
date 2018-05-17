@@ -15,6 +15,7 @@ public class TEst {
 	public void beforetest()
 	{
 		driver = new FirefoxDriver();
+		//sdkjf
 		driver.get("http://www.google.co.in");
 	}
 	
